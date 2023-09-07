@@ -1,0 +1,5 @@
+{{#Coo-}}
+Name: Siddhi
+Skills: HTML, CSS, JS, Next.js
+Email: raosiddhi05@gmail.com
+{{/Coo-}}
